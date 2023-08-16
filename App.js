@@ -31,7 +31,7 @@ const App =() => {
     // <Gridd/>
     // <AsyncStoragee/>
     // <ImagePickersss/>         
-    <Home/>                   // for redux topic
+    <Home/>                   // for redux topics
 
     // <GoogleAds/>              // not working
 
